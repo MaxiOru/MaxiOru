@@ -1,14 +1,17 @@
 <img width="100%" src="https://github.com/user-attachments/assets/412152cb-8a21-412d-92d5-034355ea7094" alt="header"/>
 
 
-<h3 align="center">Desarrollador Front-End apasionado la Aeronautica</h3>
+<h3 align="center">Desarrollador Front-End, apasionado por la Aeronautica</h3>
 
 ---
 
 ### 🧠 About Me
 
-- 💻 Apasionado por el desarrollo web y los sistemas dinámicos.
-- 🌱 Aprendiendo tecnologías modernas como React, TailwindCSS, Node.js y más.
+
+  💻 Passionate about web development and building dynamic, interactive systems.  
+  🌱 Currently learning and improving my skills in modern technologies.  
+  🚀 Eager to take on new challenges and grow as a developer.
+
 
 ---
 
