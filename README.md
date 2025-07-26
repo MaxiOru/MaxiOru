@@ -31,16 +31,7 @@
 
 ---
 
-### 🧪 Contac
 
-<div align="center">
-  <a href="mailto:maximiliano95orue@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/maximiliano-orue/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
 
 ---
 
