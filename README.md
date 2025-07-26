@@ -50,7 +50,7 @@
 ---
 
 <!-- Snake animation opcional -->
-<img src="https://raw.githubusercontent.com/MaxiOru/MaxiOru/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/MaxiOru/MaxiOru/output/snake.svg" alt="Snake animation" /> -->
 
 <!--
 Este README está basado en plantillas modernas. Adaptado por MaxiOru ✨
