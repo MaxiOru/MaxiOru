@@ -1,9 +1,11 @@
-<img width="100%" src="https://github.com/user-attachments/assets/412152cb-8a21-412d-92d5-034355ea7094" alt="header"/>
+<img width="100%" alt="header" src="https://github.com/user-attachments/assets/e17be33e-9a1a-42f0-b97b-bc933fdb6d05" />
 
 
 <h3 align="center">Desarrollador Front-End, apasionado por la Aeronautica</h3>
 
+
 ---
+
 
 ### 🧠 About Me
 
